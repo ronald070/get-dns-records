@@ -1,0 +1,9 @@
+# Generated output files
+*.txt
+*.log
+
+# Windows / VS Code
+.vscode/
+*.tmp
+Thumbs.db
+Desktop.ini
